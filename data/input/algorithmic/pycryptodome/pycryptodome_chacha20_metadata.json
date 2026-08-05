@@ -1,0 +1,8 @@
+{
+  "algorithm": "ChaCha20",
+  "library": "PyCryptodome",
+  "purpose": "Reproducible statistical test stream only",
+  "warning": "Do not use this key or nonce for real encryption",
+  "key_hex": "7172554f93b46a0cf3bf2f1c394809def69216712693f4326045018570e1ad8e",
+  "nonce_hex": "27328501a8eeb433"
+}

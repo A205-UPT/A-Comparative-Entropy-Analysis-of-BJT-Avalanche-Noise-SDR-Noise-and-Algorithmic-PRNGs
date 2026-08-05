@@ -1,0 +1,4 @@
+transform,common_available_bits,available_sequences,requested_sequences,used_sequences,target_shortfall,final_bits_per_variant
+raw,8234837,8,10,8,2,8000000
+vn,2056683,2,55,2,53,2000000
+xor,8234837,8,10,8,2,8000000

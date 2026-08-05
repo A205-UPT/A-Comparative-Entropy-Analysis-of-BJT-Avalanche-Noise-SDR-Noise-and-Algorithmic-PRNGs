@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Runtime logs
+logs/
+*.log
+
+# Generated notebook data
+data/nist_input/
+data/processed/
+data/generated/
+
+# Generated detailed NIST reports
+results/nist/
+
+# NIST compiled files
+sts-2.1.2/assess
+sts-2.1.2/obj/
+*.o
+
+# Mutable NIST working output
+sts-2.1.2/experiments/AlgorithmTesting/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak

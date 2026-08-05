@@ -1,0 +1,9 @@
+metric,value
+source_count,7
+transformation_count,3
+variant_count,21
+bits_per_variant,2000000
+nist_sequences_per_variant,2
+bits_per_nist_sequence,1000000
+binary_files,21
+ascii_files,21

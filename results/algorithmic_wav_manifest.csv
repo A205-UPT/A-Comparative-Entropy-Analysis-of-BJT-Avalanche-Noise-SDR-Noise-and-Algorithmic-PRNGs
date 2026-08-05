@@ -1,0 +1,5 @@
+source,relative_path,sample_rate_hz,sample_dtype,bit_count,file_size_mib,zero_proportion,one_proportion,sha256
+mls,data/input/algorithmic/mls/mls.wav,48000,uint8,1000000,0.9537162780761719,0.499521,0.500479,aee904a0837306819bd8ada2cc799fdc58e534dfbe916bc6b9646893100b65d4
+python_random,data/input/algorithmic/python_random/python_random.wav,48000,uint8,1000000,0.9537162780761719,0.500068,0.499932,b4b8f7b0bf1c80ba7ac84bdeaaeba6e32edc1165d2e8ed972a70e15604d7476d
+pynacl,data/input/algorithmic/pynacl/pynacl.wav,48000,uint8,1000000,0.9537162780761719,0.500641,0.499359,dfaaa1836b88bda9c33b59943507539d57c38e394c6ec5a7642e61049c352c8d
+pycryptodome,data/input/algorithmic/pycryptodome/pycryptodome_chacha20.wav,48000,uint8,1000000,0.9537162780761719,0.50059,0.49941,d27e134f0bc1d18bcaf5d7868daa66c9dc5e75a863d19fcf93406836d0ab884a

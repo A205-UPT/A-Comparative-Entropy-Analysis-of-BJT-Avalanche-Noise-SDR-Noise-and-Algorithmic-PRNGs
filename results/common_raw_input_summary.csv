@@ -1,0 +1,8 @@
+source,available_raw_values,common_raw_values_used,raw_values_discarded
+bjt,13369268,8234837,5134431
+diode,8234837,8234837,0
+mls,8234837,8234837,0
+pycryptodome,8234837,8234837,0
+pynacl,8234837,8234837,0
+python_random,8234837,8234837,0
+sdr,30146560,8234837,21911723

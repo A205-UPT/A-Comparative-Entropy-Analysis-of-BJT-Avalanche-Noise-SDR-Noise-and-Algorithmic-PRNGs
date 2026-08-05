@@ -1,0 +1,8 @@
+,value
+target_vn_sequences,55.0
+bits_per_sequence,1000000.0
+required_vn_output_bits,55000000.0
+minimum_observed_vn_retention,0.2497539416991496
+estimated_raw_values_per_source_needed,220216745.0
+current_common_raw_values,8234837.0
+additional_raw_values_estimated,211981908.0
